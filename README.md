@@ -18,4 +18,12 @@ Blog oluşturmaya hazır mısınız? Konsol ekranında postlarımızı sıralaya
 
 #### Promise ve Async - Await yöntemleri ile ayrı ayrı yapalım.
 
-Kolay gelsin.
+
+
+# Ödev 3 - Daire Modüler Dosyası
+
+Daire alan : **circleArea** ve daire çevre : **circleCircumference** fonksiyonları içeren ve konsola sonuçları yazdıran **circle.js** dosyası oluşturunuz.
+
+#### module.exports yöntemi ile fonksiyonları oluştururken export ediniz.
+
+#### require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.
