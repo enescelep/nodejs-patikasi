@@ -7,6 +7,7 @@ Konsol çıktısı: Yarıçapı (Yarıçap) olan dairenin alanı: (Alan) şeklin
 - Konsol çıktısında Template String ${expression} yapısını kullanınız.
 - Sonucu virgülden sonra 2 rakam gösterek gerçekleştiriniz. Bilgi için [tıklayınız](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/blob/master/basics/workshops/first-workshop.js)
 # Ödev 2 - Post Sıralama ve Post Ekleme
 Blog oluşturmaya hazır mısınız? Konsol ekranında postlarımızı sıralayalım, sonrasında yeni bir post oluşturalım ve yeni post ile birlikte postlarımızı tekrar sıralayalım.
 
@@ -14,7 +15,7 @@ Blog oluşturmaya hazır mısınız? Konsol ekranında postlarımızı sıralaya
 - Post nesnesi şablonu {title: 'Post Başlık 1', detail: 'Post Detay 1'} olarak düşünülebilir.
 - Promise ve Async - Await yöntemleri ile ayrı ayrı yapalım.
 
-
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/blob/master/basics/workshops/second-workshop.js)
 
 # Ödev 3 - Daire Modüler Dosyası
 
@@ -22,12 +23,17 @@ Daire alan : **circleArea** ve daire çevre : **circleCircumference** fonksiyonl
 
 - module.exports yöntemi ile fonksiyonları oluştururken export ediniz.
 - require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.
+
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/tree/master/basics/workshops/third-workshop)
+
 # Ödev 4 - FS File System Modülü
 ### Node.js FS Modülü kullanarak CRUD işlemleri yapacağız.
 - employees.json dosyası oluşturalım ve içerisine {"name": "Employee 1 Name", "salary": 2000} verisini ekleyelim. (CREATE)
 - Bu veriyi okuyalım. (READ)
 - Bu veriyi güncelleyelim.
 - Dosyayı silelim.
+
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/tree/master/basics/workshops/fourth-workshop)
 
 # Ödev 5 - Kendi Web Sunucumuzu yazalım.
 #### Kendi bilgisayarımızda aşağıdaki özellikleri kullanarak sunucumuzu yazalım.
@@ -36,6 +42,8 @@ Daire alan : **circleArea** ve daire çevre : **circleCircumference** fonksiyonl
 - Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h2 başlıkları yazdıralım.
 - port numarası olarak 5000'i kullanalım.
 
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/tree/master/basics/workshops/fiveth-workshop)
+
 # Ödev 6 - Koa.js ile web sunucumuzu yazalım.
 #### Öncelikle şunu belirteyim. Koa.js hakkında konuşmadığımızı biliyorum ve bu ödev ilk aşamada bizi zorlayacak. Buradaki amacım yeni bir teknolojiye başlama cesareti oluşturmak ve hata yapma özgürlüğümüz olduğunu göstermek.
 
@@ -43,3 +51,5 @@ Daire alan : **circleArea** ve daire çevre : **circleCircumference** fonksiyonl
 - index, hakkimda ve iletisim sayfaları oluşturalım.
 - Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h1 başlıkları yazdıralım.
 - port numarası olarak 3000'i kullanalım.
+  
+[Ödevin kodları](https://github.com/enescelep/nodejs-patikasi/tree/master/basics/workshops/sixth-workshop)
