@@ -22,11 +22,16 @@ Daire alan : **circleArea** ve daire çevre : **circleCircumference** fonksiyonl
 
 - module.exports yöntemi ile fonksiyonları oluştururken export ediniz.
 - require ve object destructing kullanarak index.js dosyasında yarıçap (r) 5 olacak şekilde ekran çıktısını alınız.
-
 # Ödev 4 - FS File System Modülü
 ### Node.js FS Modülü kullanarak CRUD işlemleri yapacağız.
-
 - employees.json dosyası oluşturalım ve içerisine {"name": "Employee 1 Name", "salary": 2000} verisini ekleyelim. (CREATE)
 - Bu veriyi okuyalım. (READ)
 - Bu veriyi güncelleyelim.
 - Dosyayı silelim.
+
+# Ödev 5 - Kendi Web Sunucumuzu yazalım.
+#### Kendi bilgisayarımızda aşağıdaki özellikleri kullanarak sunucumuzu yazalım.
+- createServer metodunu kullanacağız.
+- index, hakkimda ve iletisim sayfaları oluşturalım.
+- Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h2 başlıkları yazdıralım.
+- port numarası olarak 5000'i kullanalım.
